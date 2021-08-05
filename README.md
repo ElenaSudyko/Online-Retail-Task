@@ -25,6 +25,4 @@ CustomerID: Customer number.
 
 Country: Country name. 
 
-# Project Report
-Click here for the full project report.
 
